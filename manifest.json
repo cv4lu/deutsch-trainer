@@ -1,0 +1,11 @@
+{
+  "name": "Deutsch Trainer — Verben und Präpositionen",
+  "short_name": "Deutsch Trainer",
+  "lang": "ru",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f4f5ef",
+  "theme_color": "#172b25",
+  "description": "Немецкие глаголы с предлогами: карточки, тест и словарь",
+  "icons": []
+}
